@@ -7,7 +7,7 @@ _Data Analyst based in Moscow, Russia_ <br>
 ## 👩🏼‍💻 Work Experience
 
 **Business Systems Analyst** @ Foodtech _(Nov 2020 - May 2021)_ <br>
-Foodtech app
+Foodtech startup
   - Led the creation of all requirements documentation, including user stories, detailed functional specifications, and process flows
   - Communicated technical concepts and other subject matter expertise confidently to others, including non-technical people
 <br><br>
