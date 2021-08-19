@@ -6,10 +6,10 @@ _Data Analyst based in Moscow, Russia_ <br>
 
 ## 👩🏼‍💻 Work Experience
 
-**Business Systems Analyst** @ Foodtech _(Nov 2020 - May 2021)_ <br>
-Foodtech startup
-  - Led the creation of all requirements documentation, including user stories, detailed functional specifications, and process flows
-  - Communicated technical concepts and other subject matter expertise confidently to others, including non-technical people
+**Analyst** @ Freight One _(Aug 2021 - present)_ <br>
+"Digital Twin" project for freight wagons
+  - Providing expertise in data storage structures, data mining, and data cleansing
+  - Coming up with solutions to costly business problems
 <br><br>
 
 **Business Analyst** @ [Ormco](https://mysparksmile.com) _(Aug 2019 - Nov 2020)_ <br>
