@@ -6,7 +6,7 @@ _Data Analyst based in Moscow, Russia_ <br>
 
 ## 👩🏼‍💻 Work Experience
 
-**Analyst** @ Freight One _(Aug 2021 - present)_ <br>
+**Analyst** @ [Freight One](https://pgkweb.ru/en/) _(Aug 2021 - present)_ <br>
 "Digital Twin" project for freight wagons
   - Providing expertise in data storage structures, data mining, and data cleansing
   - Coming up with solutions to costly business problems
